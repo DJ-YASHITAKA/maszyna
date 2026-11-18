@@ -217,6 +217,7 @@ class TController {
     friend class timetable_panel;
     friend class scenario_panel;
     friend class debug_panel;
+    friend class hud_panel;
     friend class whois_event;
 
 public:
